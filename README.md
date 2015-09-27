@@ -1,2 +1,2 @@
 # website
-This is static website for Health Monitoring Analytics
+This repository is for static website for Health Monitoring Analytics
